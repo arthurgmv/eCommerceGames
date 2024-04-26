@@ -1,0 +1,5 @@
+@for (game of gamesList; track game.name) {
+<app-game-card [game]="game" (addGameToCart)="warnAboutAddGameToCart(game)"></app-game-card>
+} @empty {
+  <p>No Games available at the moment</p>
+}

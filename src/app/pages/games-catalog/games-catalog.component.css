@@ -1,0 +1,25 @@
+.card-game {
+  width: 18rem;
+  margin: 0.3rem 0.5rem;
+}
+#game {
+    display: flex;
+    align-content: center;
+    margin: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .card-game {
+    width: 50rem;
+  }
+}
+
+*{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+
+
