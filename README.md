@@ -1,3 +1,7 @@
+BTW: There's also a crud part you can access by using: /game/create
+If you want to get rid of the added games from that form clean the localStorage.
+
+
 # ECommerceGames
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
