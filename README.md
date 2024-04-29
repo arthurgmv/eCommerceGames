@@ -1,3 +1,5 @@
+Deploy link: https://e-commerce-games-xi.vercel.app/
+
 BTW: There's also a crud part you can access by using: /game/create
 If you want to get rid of the added games from that form clean the localStorage.
 
